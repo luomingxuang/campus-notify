@@ -1,0 +1,17 @@
+# 密钥与本地配置（绝不提交）
+.env
+.deploy.env
+
+# 构建与缓存
+_build/
+__pycache__/
+*.pyc
+
+# data 目录整体忽略，但状态快照与产出必须跟着仓库走
+# （GitHub Actions 每次都是全新环境，去重状态靠提交回仓库持久化）
+data/*
+!data/state.json
+!data/outputs/
+
+# 本地定时任务日志不提交
+data/logs/
