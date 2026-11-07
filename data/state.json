@@ -3710,162 +3710,6 @@
    "site_id": "kjxy",
    "ok": true,
    "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:54:02"
-  },
-  {
-   "site_id": "gjmyxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:54:25"
-  },
-  {
-   "site_id": "gsglxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:54:47"
-  },
-  {
-   "site_id": "jxxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:55:10"
-  },
-  {
-   "site_id": "rjxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:55:32"
-  },
-  {
-   "site_id": "gcjjxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:55:55"
-  },
-  {
-   "site_id": "whcbxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:56:17"
-  },
-  {
-   "site_id": "fxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:56:40"
-  },
-  {
-   "site_id": "wgyxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:57:02"
-  },
-  {
-   "site_id": "tjsxxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:57:25"
-  },
-  {
-   "site_id": "jykxxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:57:47"
-  },
-  {
-   "site_id": "lyglxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:58:10"
-  },
-  {
-   "site_id": "hjjjxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:58:33"
-  },
-  {
-   "site_id": "tyyjkglxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:58:56"
-  },
-  {
-   "site_id": "yssjxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:59:19"
-  },
-  {
-   "site_id": "yyxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 18:59:41"
-  },
-  {
-   "site_id": "gjjyxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 19:00:03"
-  },
-  {
-   "site_id": "mkszyxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 19:00:26"
-  },
-  {
-   "site_id": "school",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 19:21:03"
-  },
-  {
-   "site_id": "jwc",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 19:21:26"
-  },
-  {
-   "site_id": "xsc",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 19:21:48"
-  },
-  {
-   "site_id": "tw",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 19:22:10"
-  },
-  {
-   "site_id": "zsjyc",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 19:22:33"
-  },
-  {
-   "site_id": "hqglc",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 19:22:55"
-  },
-  {
-   "site_id": "czswxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 19:23:17"
-  },
-  {
-   "site_id": "jrxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
-   "at": "2026-11-07 19:23:40"
-  },
-  {
-   "site_id": "kjxy",
-   "ok": true,
-   "detail": "新入库 0 篇",
    "at": "2026-11-07 19:24:02"
   },
   {
@@ -4905,6 +4749,162 @@
    "ok": false,
    "detail": "列表页抓取失败",
    "at": "2026-11-07 22:23:02"
+  },
+  {
+   "site_id": "school",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:41:45"
+  },
+  {
+   "site_id": "jwc",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:42:19"
+  },
+  {
+   "site_id": "xsc",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:42:53"
+  },
+  {
+   "site_id": "tw",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:43:28"
+  },
+  {
+   "site_id": "zsjyc",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:44:05"
+  },
+  {
+   "site_id": "hqglc",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:44:41"
+  },
+  {
+   "site_id": "czswxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:45:18"
+  },
+  {
+   "site_id": "jrxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:45:52"
+  },
+  {
+   "site_id": "kjxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:46:28"
+  },
+  {
+   "site_id": "gjmyxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:47:04"
+  },
+  {
+   "site_id": "gsglxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:47:39"
+  },
+  {
+   "site_id": "jxxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:48:13"
+  },
+  {
+   "site_id": "rjxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:48:49"
+  },
+  {
+   "site_id": "gcjjxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:49:23"
+  },
+  {
+   "site_id": "whcbxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:49:58"
+  },
+  {
+   "site_id": "fxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:50:33"
+  },
+  {
+   "site_id": "wgyxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:51:08"
+  },
+  {
+   "site_id": "tjsxxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:51:42"
+  },
+  {
+   "site_id": "jykxxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:52:19"
+  },
+  {
+   "site_id": "lyglxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:52:56"
+  },
+  {
+   "site_id": "hjjjxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:53:32"
+  },
+  {
+   "site_id": "tyyjkglxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:54:07"
+  },
+  {
+   "site_id": "yssjxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:54:43"
+  },
+  {
+   "site_id": "yyxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:55:20"
+  },
+  {
+   "site_id": "gjjyxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:55:57"
+  },
+  {
+   "site_id": "mkszyxy",
+   "ok": false,
+   "detail": "列表页抓取失败",
+   "at": "2026-11-07 22:56:31"
   }
  ],
  "push_history": {
